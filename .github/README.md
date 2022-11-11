@@ -57,6 +57,10 @@
 - TokenTactics - https://github.com/rvrsh3ll/TokenTactics
   <br />
 
+## 2FA bypass
+- Evilnginx2 - https://github.com/kgretzky/evilginx2
+- EvilnoVNC - https://github.com/JoelGMSec/EvilnoVNC
+
 ## Password Spray
 ### Tools
 - MSOLSpray - https://github.com/dafthack/MSOLSpray
@@ -94,6 +98,12 @@
 - Malleable C2 Randomizer - https://fortynorthsecurity.com/blog/introducing-c2concealer/
 - SourcePoint - https://github.com/Tylous/SourcePoint
 
+### C2 (Opensource)
+- OffensiveNotion - https://github.com/mttaggart/OffensiveNotion
+- Havoc - https://github.com/HavocFramework/Havoc
+- Merlin - https://github.com/Ne0nd0g/merlin
+- Sliver -https://github.com/BishopFox/sliver
+
 ### Redirectors
 - Domain Fronting - https://www.bamsoftware.com/papers/fronting/
 
@@ -112,7 +122,7 @@
 - DNS Enum - https://github.com/dirkjanm/adidnsdump
 
 ### Windows Active Directory Attacks
-- Attacking & Securing Active Directory - https://rmusser.net/docs/Active_Directory.html (Awesome references)
+- Attacking & Securing Active Directory - https://rmusser.net/docs/index.html#/./Active_Directory?id=active-directory (Awesome references)
 
 ### Internal Phishing
 - pickl3 - https://github.com/hlldz/pickl3
@@ -183,8 +193,17 @@
 ### Nix
 
 
+## VulnDB
+### Vulns - Cloud
+- [The Open Cloud Vulnerability & Security Issue Database](https://www.cloudvulndb.org/)
 
-## RedTeam Researchers/Githubs/Gitbooks
+### Vulns - WebApp
+
+
+### Vulns - Windows / Active Directory 
+
+
+## RedTeam Researchers (Githubs / Gitbooks)
 - Vincent Yiu - https://vincentyiu.com
 - Outflank - https://github.com/outflanknl
 - Bank Security - https://github.com/BankSecurity/Red_Team
@@ -195,14 +214,24 @@
 - Rastamouse - https://offensivedefence.co.uk/authors/rastamouse/
 - (Gitbook) dmcxblue - https://dmcxblue.gitbook.io/red-team-notes-2-0/
 
+## Awesome Collections
+- [Awesome-RCE-Techniques](https://github.com/p0dalirius/Awesome-RCE-techniques)
 
 ## Lab Resources
+### Labs - Windows
 - Windows Server VMs - https://www.microsoft.com/en-us/evalcenter
 - Windows 10 - https://www.microsoft.com/en-us/software-download/windows10ISO
 - Archive of WinVMs - https://archive.org/search.php?query=subject%3A%22IEVM%22
 - Public MSDN - [Link](https://the-eye.eu/public/MSDN/)
 - Adversary Tactics: PowerShell - https://github.com/specterops/at-ps (Specterops)
 
+### Labs - Cloud
+- AWS Threat Simulation and Detection - https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection
+- Stratus Red Team - https://github.com/DataDog/stratus-red-team
+
+### Labs - CTF / Security Testing Practice
+- Hackthebox - https://www.hackthebox.eu/
+- Cyberseclab - https://www.cyberseclabs.co.uk/ (AD Focus)
 
 ## Sexy Resources
 - MITRE ATT&CK - https://attack.mitre.org/
@@ -214,10 +243,6 @@
 - Tenable - https://github.com/tenable/poc (Exploit POCs)
 - MalwareUnicorn - https://malwareunicorn.org/ (Malware/Reversing)
 
-
-## Security Testing Practice Lab
-- Hackthebox - https://www.hackthebox.eu/
-- Cyberseclab - https://www.cyberseclabs.co.uk/ (AD Focus)
 
 
 ## BlueTeam
@@ -243,3 +268,4 @@ All the credits belong to the original authors and publishers.
 - @bigb0ss
 - @T145
 - @threat-punter
+- @3isenHeiM
